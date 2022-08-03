@@ -52,7 +52,7 @@ const [ ,willThisWork] = secondKey;
 console.log(key);// output = 'value'
 console.log(secondKey);// output = [1, 5, 1, 8, 3, 3]
 console.log(secondKey[0]);// output = 1
-console.log(willThisWork);// output = 5.
+console.log(willThisWork);// output = 5
 
 
 
