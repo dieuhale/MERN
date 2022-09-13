@@ -1,0 +1,35 @@
+
+
+table, th , td{
+  border: solid;
+  border-collapse: collapse;
+  text-align: center;
+  width: 50%;
+  
+}
+
+.link {
+  margin-right: 20px;
+}
+
+.container{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: left;
+  margin-left: 30%;
+  
+}
+
+button{
+background-color: #04AA6D;
+ color: white;
+ padding: 12px 40px;
+ border: none;
+ border-radius: 4px;
+  margin: 15px 15px 15px 0px ;
+  
+}
+.text-danger{
+  color: red;
+}
